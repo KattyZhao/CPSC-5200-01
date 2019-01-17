@@ -1,0 +1,14 @@
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/bin/Debug/netcoreapp2.2/restapi.deps.json
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.json
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.dev.json
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/bin/Debug/netcoreapp2.2/restapi.dll
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/bin/Debug/netcoreapp2.2/restapi.pdb
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.csprojAssemblyReference.cache
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.csproj.CoreCompileInputs.cache
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cache
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cs
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfoInputs.cache
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfo.cs
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.RazorTargetAssemblyInfo.cache
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.dll
+/Users/Sihui/Desktop/SU_CPSC_5200_19WQ-master/restapi/obj/Debug/netcoreapp2.2/restapi.pdb
